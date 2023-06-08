@@ -17,7 +17,7 @@
 <a href="https://stackoverflow.com/users/2262856" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="2262856" height="30" width="40" /></a>
 <a href="https://instagram.com/abdo.host" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdo.host" height="30" width="40" /></a>
 <a href="https://www.behance.net/abdo-host" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="abdo-host" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@tatwerat-9753" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@tatwerat-9753" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/@tatwerat-9753](https://www.youtube.com/@tatwerat-9753)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@tatwerat-9753" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
